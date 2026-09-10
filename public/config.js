@@ -38,7 +38,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"00000000-0000-4000-8000-000000000001\",\"displayName\":\"Default\",\"mode\":\"dark\",\"isDefault\":true},{\"id\":\"bddcf2c1-4e50-4411-b636-416b7fca9792\",\"displayName\":\"New theme\",\"mode\":\"dark\",\"cssVars\":{\"--oui-color-fill\":\"30 30 47\",\"--oui-color-link\":\"0 255 214\",\"--oui-color-base-6\":\"30 30 40\",\"--oui-color-base-7\":\"30 30 47\",\"--oui-color-base-8\":\"25 25 35\",\"--oui-color-primary\":\"0 255 214\",\"--oui-color-link-light\":\"80 255 242\",\"--oui-color-fill-active\":\"35 35 55\",\"--oui-color-primary-light\":\"80 255 242\",\"--oui-color-primary-darken\":\"0 200 170\",\"--oui-gradient-primary-end\":\"0 255 214\",\"--oui-color-primary-contrast\":\"0 0 0\",\"--oui-gradient-primary-start\":\"0 255 214\"}}]",
+  "VITE_ORDERLY_THEME_CONFIG": "[{\"id\":\"bddcf2c1-4e50-4411-b636-416b7fca9792\",\"displayName\":\"New theme\",\"mode\":\"dark\",\"cssVars\":{\"--oui-color-fill\":\"30 30 47\",\"--oui-color-link\":\"0 255 214\",\"--oui-color-base-6\":\"30 30 40\",\"--oui-color-base-7\":\"30 30 47\",\"--oui-color-base-8\":\"25 25 35\",\"--oui-color-primary\":\"0 255 214\",\"--oui-color-link-light\":\"80 255 242\",\"--oui-color-fill-active\":\"35 35 55\",\"--oui-color-primary-light\":\"80 255 242\",\"--oui-color-primary-darken\":\"0 200 170\",\"--oui-gradient-primary-end\":\"0 255 214\",\"--oui-color-primary-contrast\":\"0 0 0\",\"--oui-gradient-primary-start\":\"0 255 214\"},\"isDefault\":true}]",
   "VITE_ANALYTICS_SCRIPT": "{}",
   "VITE_ANALYTICS_CONFIG": "",
   "VITE_SYMBOL_LIST": "",
