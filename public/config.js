@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "X, https://x.com/Vorqexa; Telegram, https://t.me/VORQEXACOMMUNITY; YouTube, https://www.youtube.com/@vorqexa-DEX",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/VORQEXACOMMUNITY",
