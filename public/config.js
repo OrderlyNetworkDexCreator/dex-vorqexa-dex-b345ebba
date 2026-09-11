@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "",
+  "VITE_WALLETCONNECT_PROJECT_ID": "de601f6aea2121a419ba097c899283a9",
   "VITE_APP_NAME": "Vorqexa Dex",
   "VITE_APP_DESCRIPTION": "A decentralized exchange built on orderly network",
   "VITE_HAS_PRIMARY_LOGO": "true",
