@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "vorqexa",
   "VITE_ORDERLY_BROKER_NAME": "Vorqexa Dex",
   "VITE_BROKER_EOA_ADDRESS": "0x7c022512ede0039eefea249f71cf30e682b94da9",
   "VITE_DISABLE_MAINNET": "false",
